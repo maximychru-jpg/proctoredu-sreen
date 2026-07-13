@@ -4,7 +4,7 @@
   <p><b>Мощная и незаметная утилита для мгновенной отправки скриншотов в Telegram по горячим клавишам.</b></p>
 
   <!-- БЕЙДЖИ -->
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.14+-blue?logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
   <a href="#"><img src="https://img.shields.io/badge/UI-CustomTkinter-2ea44f?logo=appveyor&logoColor=white" alt="CustomTkinter"></a>
   <br><br>
